@@ -3613,3 +3613,11 @@ button.small,
 ul > li {
   padding-bottom: 2rem;
 }
+
+h1 > img {
+  max-height: 10rem;
+}
+
+li > img {
+  max-height: 6rem;
+}
