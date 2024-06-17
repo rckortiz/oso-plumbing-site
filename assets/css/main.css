@@ -3614,8 +3614,10 @@ ul > li {
   padding-bottom: 2rem;
 }
 
+/* added to adjust size of logo  */
+
 h1 > img {
-  max-height: 10rem;
+  max-height: 12rem;
 }
 
 li > img {
