@@ -2684,10 +2684,11 @@ button.small,
   text-align: center;
   padding: 3em 0 0 0;
   background-color: #fff;
-  background-image: url("images/bg02.png"), url("images/bg02.png"),
-    url("images/bg01.png");
+  background-image: url("images/bg01.png"), url("images/bg02.png"),
+    url("../../images/florida-homes-assets/filtergrade-4T4AcGJvARQ-unsplash.jpg");
   background-position: top left, top left, top left;
-  background-size: 100% 6em, 100% 6em, auto;
+
+  background-size: 40% 6em, 40% 6em, auto;
   background-repeat: no-repeat, no-repeat, repeat;
 }
 
